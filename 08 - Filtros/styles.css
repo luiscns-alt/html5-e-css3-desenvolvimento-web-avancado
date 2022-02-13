@@ -1,0 +1,13 @@
+img {
+  display: block;
+  margin: 50px auto;
+  /* filter: brightness(0%); */
+  /* filter: contrast(100%); */
+  /* filter: drop-shadow(5px 5px 2px red); */
+  /* filter: grayscale(100%); */
+  /* filter: hue-rotate(60deg); */
+  /* filter: invert(100%); */
+  /* filter: opacity(50%); */
+  filter: saturate(100%);
+  /* filter: sepia(100%); */
+}
