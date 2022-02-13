@@ -1,0 +1,9 @@
+.bg-one {
+  height: 200px;
+  background: linear-gradient(red, green);
+}
+
+.bg-two {
+  height: 200px;
+  background: radial-gradient(red, green);
+}
